@@ -1,0 +1,17 @@
+﻿Project,Task
+A,"A peer-review process to ensure code quality and adherence to standards. Developers provide feedback on each other's work, suggesting improvements. It helps catch bugs early and ensures consistency in the codebase."
+A,"A short daily meeting to align the team and address roadblocks. Each member shares what they accomplished, what they will work on, and any blockers. This ensures transparency and fosters collaboration."
+A,"A session to reflect on the sprint's successes and challenges. Team members discuss what went well, what didn't, and how to improve. Actionable insights are recorded to enhance future sprints."
+A,"A collaborative meeting to define the work to be completed in the upcoming sprint. Team members discuss user stories, estimate effort, and prioritize tasks. Clear objectives are set for the sprint."
+B,"A meeting to refine and prioritize the product backlog. Team members clarify user stories, adjust priorities, and ensure the backlog is up-to-date. This keeps the team focused on the most important tasks."
+B,"A collaborative review process aimed at maintaining code quality and compliance with standards. Developers evaluate each other's work, offering constructive feedback and recommendations for improvement. This practice helps identify issues early and promotes a consistent and reliable codebase."
+B,"A brief daily meeting designed to keep the team aligned and identify any obstacles. Team members share their progress, upcoming tasks, and any challenges they are facing. This promotes transparency and encourages teamwork."
+B,"A team meeting focused on planning the work for the upcoming sprint. Members review user stories, evaluate effort, and set task priorities. The session ensures clear goals are established for the sprint."
+C,"A session dedicated to reviewing and organizing the product backlog. Team members refine user stories, update priorities, and ensure the backlog reflects current goals. This helps the team stay aligned and concentrate on high-priority tasks."
+C,A process where developers review each other's code to maintain quality and ensure it meets established standards. Feedback is shared to suggest enhancements and address potential issues. This approach helps detect bugs early and fosters consistency in the codebase.
+C,The activity of creating detailed test scenarios to validate software functionality. Test cases ensure the system works as intended and helps identify bugs early. It is a critical part of quality assurance.
+C,The process of creating concise descriptions of new features from the end-user's perspective. It ensures developers understand the 'what' and 'why' of each feature. User stories drive clarity and purpose in development.
+D,"The process of defining the structure and behavior of the software system. It ensures scalability, reliability, and maintainability. A well-designed architecture sets the foundation for robust development."
+D,"Assessing the application's speed, stability, and scalability under load. This helps identify bottlenecks and ensures the software meets performance benchmarks. It is crucial for delivering a seamless user experience."
+D,Creating a working model to visualize and validate ideas. It helps stakeholders understand the proposed design and functionality. Feedback from the prototype is used to refine the final product.
+D,Evaluating the system to identify potential vulnerabilities and risks. The audit ensures the application adheres to security best practices. Recommendations are made to strengthen the software's defenses.
