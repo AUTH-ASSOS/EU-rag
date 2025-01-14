@@ -6,6 +6,7 @@ from langchain_community.docstore.in_memory import InMemoryDocstore
 import faiss
 from uuid import uuid4
 from langchain_core.documents import Document
+from pathlib import Path
 
 def customDocLoad():
     """Load or create the FAISS database."""
@@ -44,7 +45,15 @@ def customDocLoad():
 
 def query(vector_store):
     """Query the FAISS index and write results to a file."""
-    filepath = "results.txt"
+    filepath = "results/results.txt"
+
+    Path("results").mkdir(parents=True, exist_ok=True)
+    try:
+        os.remove(filepath)
+    except OSError:
+        pass
+
+    
 
     with open(filepath, "w", encoding="ISO-8859-1") as file:
         # Iterate through all documents in the vector store

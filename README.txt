@@ -16,6 +16,13 @@ This project demonstrates the creation and querying of a FAISS-based vector stor
 
 ## Installation
 1. Clone the repository.
-2. Install the required dependencies:
+2. Create virtual environment
    ```bash
-   pip install -r requirements.txt
+   py -m venv .env
+3. ACtivate the virtual environment
+   ```bash
+   .\.env\Scripts\activate  
+3. Install the required dependencies:
+   ```bash
+   pip install -r .\requirements.txt
+4. Run py rag.py
